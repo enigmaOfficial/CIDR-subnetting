@@ -6,4 +6,4 @@
 
 -->run subnetting.java & provide IP address with CIDR in format (x.x.x.x/CIDR)
 
-![subbnetting cheat sheet](https://github.com/enigmaOfficial/CIDR-subnetting/blob/master/subnetting%20cheat%20sheet.PNG)
+![subbnetting cheat sheet](https://raw.githubusercontent.com/enigmaOfficial/CIDR-subnetting/master/subnetting%20reference.PNG)
